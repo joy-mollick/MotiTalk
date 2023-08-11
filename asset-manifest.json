@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MotiTalk/static/css/main.7a2344c6.css",
+    "main.js": "/MotiTalk/static/js/main.336a8003.js",
+    "static/js/787.0740e755.chunk.js": "/MotiTalk/static/js/787.0740e755.chunk.js",
+    "static/media/logo.png": "/MotiTalk/static/media/logo.1fee4a651097302c7f6f.png",
+    "index.html": "/MotiTalk/index.html",
+    "main.7a2344c6.css.map": "/MotiTalk/static/css/main.7a2344c6.css.map",
+    "main.336a8003.js.map": "/MotiTalk/static/js/main.336a8003.js.map",
+    "787.0740e755.chunk.js.map": "/MotiTalk/static/js/787.0740e755.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a2344c6.css",
+    "static/js/main.336a8003.js"
+  ]
+}
